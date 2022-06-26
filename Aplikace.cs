@@ -147,7 +147,7 @@ namespace EvidencePojisteni
         {
             Console.WriteLine("\nPokračujte stiskem libovolné klávesy.");
             Console.ReadKey();
-            Console.Clear();    //Vyčistění konzole
+            Console.Clear();    
         }
 
         //Metoda pro načtení a validaci jmena
